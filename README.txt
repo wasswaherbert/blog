@@ -11,4 +11,3 @@ access to your created posts.
 vii) For extra help contact us via seanpython2@gmail.com
 
 Good luck!!!
-Enjoy guys!!!!
