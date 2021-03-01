@@ -15,5 +15,5 @@ or http://127.0.0.1:3000 assuming 3000 is your port number is 3000 to gain
 access to your created posts. 
 vii) For extra help contact developers via LinkedIn;
 
-
-Good luck!!!
+1. @Sean Kamugasa
+2. @Wasswa Herbert
