@@ -1,4 +1,4 @@
-HOW TO DEPLOY THE BLOG APP:
+HOW TO RUN THE BLOG APP:
       ____PART A___
 a) Assuming you are using Visual Studio with in Linux OS,
 Run the following in your terminal;
