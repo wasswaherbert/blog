@@ -31,4 +31,4 @@ NOTICE: This blog app runs under PostgreSQL database. Install it.
 ==> HOW TO INSTALL PostgreSQL
 https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
 
-Enjoy !!!             
+Enjoy !!!!            
