@@ -39,6 +39,15 @@ This blog app runs under PostgreSQL database. Install it.
 ==> HOW TO INSTALL PostgreSQL
 
 # https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
-
+ 
+RUNNING TESTS
+NOTE: the htmlcov folder in the project root directory has all the statistics about the tests coverage.
+---Assuming you are using Visual studio text editor in Ubuntu--
+Run the following in your terminal.
+1. install the pytest packages if at all not yet installed
+--pip install pytest-django pytest-cov
+2. check the passing tests and the test coverage so far
+$ pytest
+$ pytest --cov=blog
 Thank you
 Enjoy !!! 
